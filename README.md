@@ -19,6 +19,7 @@
 ## 🌐 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/indrajeet-patel-837b77258/)
 - [LeetCode](https://leetcode.com/u/indrajeet_p23/)
+- - [portfolio](https://portfolio-indrajeet.netlify.app/)
 
 <!--
 **indrajeetp23/indrajeetp23** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
